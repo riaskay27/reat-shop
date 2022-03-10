@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/reat-shop/static/css/main.d1bb0ce3.css",
+    "main.css": "/reat-shop/static/css/main.b5971dea.css",
     "main.js": "/reat-shop/static/js/main.21fae374.js",
     "index.html": "/reat-shop/index.html",
-    "main.d1bb0ce3.css.map": "/reat-shop/static/css/main.d1bb0ce3.css.map",
+    "main.b5971dea.css.map": "/reat-shop/static/css/main.b5971dea.css.map",
     "main.21fae374.js.map": "/reat-shop/static/js/main.21fae374.js.map"
   },
   "entrypoints": [
-    "static/css/main.d1bb0ce3.css",
+    "static/css/main.b5971dea.css",
     "static/js/main.21fae374.js"
   ]
 }
