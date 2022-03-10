@@ -4,7 +4,12 @@ function Footer() {
             <div className="footer-copyright">
                 <div className="container">
                     © {new Date().getFullYear()} Copyright Text
-                    <a className="#80cbc4 teal lighten-3" href="#!">
+                    <a
+                        className="#80cbc4 teal lighten-3 right"
+                        href="https://github.com/riaskay27/reat-shop"
+                        target="_blank"
+                        rel="noreferrer"
+                    >
                         Repo
                     </a>
                 </div>
